@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋, yo soy Manuel Levicoy Ojeda</h1>
 <h3 align="center">Un profesional serio y responsable</h3>
-
+<br><br>
 - 🔭 Actualmente estoy trabajando en **Bogado Ingenieros Consultores SpA.**
 
 - 🌱 Actualmente estoy aprendiento **Python, DJango, PySpark y Ciencia de Datos.**
