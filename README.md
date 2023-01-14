@@ -1,15 +1,13 @@
-<h1 align="center">Hola 👋, yo soy Manuel Levicoy Ojeda</h1>
+<h1 align="center">Junto con saludar 👋, mi nombre es Manuel Levicoy Ojeda</h1>
 <h3 align="center">Un profesional serio y responsable</h3>
 <br><br>
 - 🔭 Actualmente estoy trabajando en **Bogado Ingenieros Consultores SpA.**
 
-- 🌱 Actualmente estoy aprendiento **Python, DJango, PySpark y Ciencia de Datos.**
+- 🌱 Actualmente estoy capacitandome en **Python, DJango, PySpark y Ciencia de Datos.**
 
-- 👯 Estoy buscando colaborar en **Desarrollo, Ciencia de Datos e Ingeniería e Datos.**
+- 👯 Estoy buscando desarrollarme en **Ciencia de Datos, Ingeniería e Datos e Inteligencia Artificial**
 
-- 🤝 Estoy buscando ayuda con **Desarrollo, Ciencia de Datos e Ingeniería e Datos.**
-
-- 💬 Preguntame sobre **Área técnica, Python, PySparj y Ciencia de Datos.**
+- 💬 Preguntame sobre **Área técnica, Python, PySpark y Ciencia de Datos.**
 
 - 📫 Comunicate a través de **manuel.levicoy@outlook.com**
 <br><br>
