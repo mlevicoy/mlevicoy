@@ -1,7 +1,7 @@
 <h1 align="center">Junto con saludar 👋, mi nombre es Manuel Levicoy Ojeda</h1>
 <h3 align="center">Un profesional serio y responsable</h3>
 <br><br>
-- 🔭 Actualmente estoy trabajando en **Bogado Ingenieros Consultores SpA.**
+* 🔭 Actualmente estoy trabajando en **Bogado Ingenieros Consultores SpA.**
 
 - 🌱 Actualmente estoy capacitandome en **Python, DJango, PySpark y Ciencia de Datos.**
 
