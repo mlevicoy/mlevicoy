@@ -5,7 +5,7 @@
 
 - 🌱 Actualmente estoy capacitandome en **Python, DJango, PySpark y Ciencia de Datos.**
 
-- 👯 Estoy buscando desarrollarme en **Ciencia de Datos, Ingeniería e Datos e Inteligencia Artificial**
+- 👯 Estoy buscando desarrollarme en **Ciencia de Datos, Ingeniería e Datos e Inteligencia Artificial.**
 
 - 💬 Preguntame sobre **Área técnica, Python, PySpark y Ciencia de Datos.**
 
